@@ -1,0 +1,12 @@
+[22-Feb-2022 08:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php on line 17
+[22-Feb-2022 08:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php on line 17
+[22-Feb-2022 08:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/sudoukazuki/Local Sites/engineertest/app/public/wp-content/themes/twentytwenty/index.php on line 17
